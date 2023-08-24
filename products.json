@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product A"
+    },
+    {
+      "id": 2,
+      "name": "Product B"
+    },
+    {
+      "id": 3,
+      "name": "Product C"
+    },
+    {
+      "lol": "gád",
+      "textarea": "ewfwe",
+      "checked": true,
+      "food": "coconut",
+      "id": 4
+    }
+  ]
+}
